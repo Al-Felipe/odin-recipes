@@ -1,0 +1,10 @@
+img{
+    width:225;
+    height: auto;
+}
+
+* {
+    font-family: fantasy, sans-serif;
+    background-color: azure;
+    text-align: center;
+}
