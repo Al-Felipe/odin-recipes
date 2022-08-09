@@ -6,5 +6,10 @@ img{
 * {
     font-family: fantasy, sans-serif;
     background-color: azure;
-    text-align: center;
+    
+}
+
+ul{
+    margin: 10px;
+    border: 10px;
 }
