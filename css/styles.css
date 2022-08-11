@@ -1,15 +1,16 @@
-img{
-    width:225;
-    height: auto;
-}
-
 * {
     font-family: fantasy, sans-serif;
     background-color: azure;
+    text-align: center;
+}
+
+img{
+    width:225;
     
 }
 
 ul{
-    margin: 10px;
-    border: 10px;
+    margin: 36px auto 0 auto;
+    width: 500px;
+    padding: 10px;
 }
