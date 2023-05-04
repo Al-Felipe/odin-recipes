@@ -1,0 +1,41 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+#logo {
+    width: 350px;
+    height: auto;
+}
+
+#recipes {
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.home {
+    font-size: 20px;
+}
+
+.recipe-img {
+    width: 300px;
+    height: auto;
+}
+
+.center-img {
+    display: block;
+    margin: 0 auto;
+}
